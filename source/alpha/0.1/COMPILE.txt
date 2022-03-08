@@ -1,0 +1,1 @@
+g++.exe -std=c++0x -lmingw32 -static-libgcc -static-libstdc++ *.cpp -o zMand.exe -ISDL\include\SDL2\i686 -LSDL\lib\SDL2\i686 -lSDL2main -lSDL2 -ISDL\include\SDL2_image\i686 -LSDL\lib\SDL2_image\i686 -lSDL2_image -ISDL\include\SDL2_mixer\i686 -LSDL\lib\SDL2_mixer\i686 -lSDL2_mixer -ISDL\include\SDL2_ttf\i686 -LSDL\lib\SDL2_ttf\i686 -lSDL2_ttf
